@@ -150,7 +150,7 @@ The recommendations provide directional decision-support based on observed searc
 The project can be reproduced by following the notebooks in sequence from the GitHub repository.
 
 Repository:
-https://github.com/tariqeman727-ui/flyRank-Ai--internship
+[https://github.com/tariqeman727-ui/flyRank-Ai--internship](https://github.com/sarahabumandil/FlyRank-ML-Intership-/blob/main/work/notebooks/capstone.ipynb)
 
 Project notebooks:
 
