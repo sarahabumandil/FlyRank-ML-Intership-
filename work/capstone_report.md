@@ -2,7 +2,7 @@
 
 - **Author:** Sarah Abumandil 
 - **Lane:** Content Refresh Prioritization
-- **Repo:** 
+- **Repo:** https://github.com/sarahabumandil/FlyRank-ML-Intership-/blob/main/work/notebooks/capstone.ipynb 
 - **Date:** September 2026
 
 > Copy this file to `work/capstone_report.md` and fill it in as you build. The eight
